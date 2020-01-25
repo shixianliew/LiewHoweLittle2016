@@ -1,4 +1,4 @@
-###Dataset used for Liew, Howe, & Little 2016, Experiment 2.
+###Dataset used for Liew, Howe, & Little 2016, Experiment 2.###
 
 This data contains the individual choices made during the preferential choice session of Experiment 2.
 
