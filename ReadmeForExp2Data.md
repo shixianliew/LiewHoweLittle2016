@@ -7,20 +7,20 @@ Columns 1-3 are self-explanatory.
 
 4. ID - Unique participant ID
 5. Condition -
-    * 1) Similarity Effect, decoy high on y-axis
-    * 2) Similarity Effect, decoy high on x-axis
-    * 3) Attraction Effect, decoy high on y-axis
-    * 4) Attraction Effect, decoy high on x-axis
-    * 5) Compromise Effect, decoy high on y-axis
-    * 6) Compromise Effect, decoy high on x-axis
+    * (1) Similarity Effect, decoy high on y-axis
+    * (2) Similarity Effect, decoy high on x-axis
+    * (3) Attraction Effect, decoy high on y-axis
+    * (4) Attraction Effect, decoy high on x-axis
+    * (5) Compromise Effect, decoy high on y-axis
+    * (6) Compromise Effect, decoy high on x-axis
 
 6. Product - 
-    * 1) color printer
-    * 2) digital camera
-    * 3) notebook computer
-    * 4) racing bike
-    * 5) vacuum cleaner
-    * 6) washing machine
+    * (1) color printer
+    * (2) digital camera
+    * (3) notebook computer
+    * (4) racing bike
+    * (5) vacuum cleaner
+    * (6) washing machine
 7. BlockNum - Block number
 
 8. TrialNum - Trial number
