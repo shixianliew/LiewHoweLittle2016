@@ -1,6 +1,6 @@
 # Dataset used for Liew, Howe, & Little 2016, Experiment 2.
 
-This data contains the individual choices made during the preferential choice session of Experiment 2.
+This data contains the individual choices made during the preferential choice session of Experiment 2. Data here is already processed according to the exclusion criteria stated in the paper.
 
 Explanation of each column follows. 
 Columns 1-3 are self-explanatory.
