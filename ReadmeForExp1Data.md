@@ -7,27 +7,30 @@ Columns 1-3 are self-explanatory.
 
 4. ID - Unique participant ID
 
-5. Condition - 
+5. Condition -
     Negative values indicate catch trials, with options on varying levels of average values.
+   
     **Similarity Effect**
     * (1) All options high on y-axis, decoy higher on y-axis. 
     * (2) All options high on y-axis, decoy higher on x-axis.
     * (3) All options high on x-axis, decoy higher on y-axis.
-    * (4) All options high on y-axis, decoy higher on x-axis. 
+    * (4) All options high on y-axis, decoy higher on x-axis.
+      
     **Attraction Effect**
     * (1) Range decoy higher on y-axis. 
     * (2) Range decoy higher on x-axis. 
     * (3) Frequency decoy higher on y-axis. 
     * (4) Frequency decoy higher on x-axis. 
     * (5) Range-Frequency decoy higher on y-axis. 
-    * (6) Range-Frequency decoy higher on x-axis. 
+    * (6) Range-Frequency decoy higher on x-axis.
+      
     **Compromise Effect**
     * (1) All options high on y-axis.
     * (2) All options moderate on x- and y-axes.
     * (3) All options high on x-axis.
 
 
-6. TrialNum - Trial number
+7. TrialNum - Trial number
 
 7-12. x- and y-values of each of the three choices. The A, B, and C labels correspond to the order in which they were displayed.
 
